@@ -4,7 +4,7 @@ app/bootstrap*
 # Symfony directories
 Symfony/vendor/*
 */logs/*
-Symfony/app/cache/*
+Symfony/cache/*
 Symfony/web/uploads/*
 Symfony/web/bundles/*
 
